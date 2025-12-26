@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Bader Auto Repair"
+theme = "ananke"
+
+relativeURLs = true
+canonifyURLs = false
